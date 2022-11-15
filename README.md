@@ -1,4 +1,73 @@
-# Brake Light Flasher Pro
+# Brake Light Flasher Pro (English)
+
+For use on all motorcycles, ATVs and cars without bulb monitoring.
+
+## Warning
+
+Check local vehicle laws to see if the Brake Light Flasher Pro are allowed in your country/state, as the Brake Light Flasher Pro can save lives but may be illegal in some countries. If the use of brake light flasher is restricted in your country or state, we recommend setting the device to mode "1" which simulates manual brake light flashing (3 slow flashes). **You are responsible for complying with the laws in your area.
+
+## Installation
+
+Install this device at your own risk.
+
+For motorcycles, it is recommended that you make the connections under the seat near the brake light system. For cars, make the connections on the cable that goes directly to the third brake light.
+
+...
+
+## Operation
+
+The device is fully functional after installation. If you want, you can easily change the flashing mode with a few button presses on the module.
+
+Here is the list of available modes:
+
+| Mode # | Frequency (Hz) | Duration (s) | Number of flashes |
+|---|---|---|---|
+| 0 (bypass mode) | 0 | - | 0 |
+| 1 | 1.5 | 2 | 3 |
+| 2 | 1.5 | 5 | 8 |
+| 3 | 3 | 2 | 6 |
+| 4 | 3 | 5 | 15 |
+| 5 | 6 | 2 | 12 |
+| 6 | 6 | 5 | 30 |
+| 7 | 9 | 2 | 18 |
+| 8 | 9 | 5 | 45 |
+| 9 | 12 | 2 | 24 |
+| 10 | 12 | 5 | 60 |
+| 11 (delay warning signal) | Changes from high to low frequency | 3 | 8 |
+
+### Notes
+
+- In bypass mode, the brake light functions in the same way as without the module installed.
+
+- Modes 1 to 10 start with a 1-second pulse, which ensures that the brake light reaches maximum brightness within a very short time. Then the light flashes with a duty cycle of 75% (75% ON, 25% OFF) for best visibility (flashing light without loss of brightness).
+
+- In modes 1 to 11, the brake light remains on after the flashing cycle is complete for as long as you apply the brake.
+
+- Modes 7 to 10 are only suitable for LED lights, as incandescent lamps cannot reproduce the flashing speed of these modes.
+
+- The setting is stored in flash memory so you don't have to reprogram the unit if you disconnect the battery.
+
+### Change flashing mode
+
+- Turn the ignition key to ON and the engine stop switch to RUN, apply and hold the brake to illuminate the brake light.
+
+- Wait until the flashing cycle is complete and the brake light is on steady. Do not release the brake at this time, but wait until the programming is complete.
+
+- Press and hold the button for about 5 seconds until the brake light goes out. This confirms that you are in programming mode.
+
+- Release the button. The light will illuminate and remain on. This means that the "0" mode is selected. If you want to leave the module in bypass mode, release the brake and the setting will be saved.
+
+- To select the next mode, touch and hold the button until the light goes out. When you release the button, the next mode is selected and you will see the flashing light pattern for that mode.
+
+- When the desired mode is selected, release the brake and the setting will be saved.
+
+## Warranty
+
+No warranty and/or guarantee is provided. All modifications are at your own risk.
+
+---
+
+# Brake Light Flasher Pro (German)
 
 Zur Verwendung an allen Motorrädern, ATVs und Autos ohne Glühlampenüberwachung.
 
