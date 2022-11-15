@@ -18,6 +18,7 @@ For motorcycles, it is recommended that you make the connections under the seat 
 
 Depending on the hardware used, the ground line is interrupted in the depiction shown.
 
+```
                    +-------+                                          
                    |       |                                          
                    |  BLF  |                                          
@@ -31,7 +32,7 @@ Depending on the hardware used, the ground line is interrupted in the depiction 
                          |                     | Bulp |               
  ------------------------|-------------------- |      |               
  Plus                                          +------+               
-
+```
 
 ## Operation
 
@@ -106,6 +107,7 @@ Bei Motorrädern empfiehlt es sich, die Anschlüsse unter dem Sitz in der Nähe 
 
 Abhängig von der eingesetzten Hardware wird in der abgebildeten Darstellung die Masse-Leitung unterbrochen.
 
+```
                    +-------+                                          
                    |       |                                          
                    |  BLF  |                                          
@@ -119,6 +121,7 @@ Abhängig von der eingesetzten Hardware wird in der abgebildeten Darstellung die
                          |                     | Bulp |               
  ------------------------|-------------------- |      |               
  Plus                                          +------+               
+```
 
 ## Betrieb
 
