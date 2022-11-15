@@ -4,7 +4,7 @@ For use on all motorcycles, ATVs and cars without bulb monitoring.
 
 ## Warning
 
-Check local vehicle laws to see if the Brake Light Flasher Pro are allowed in your country/state, as the Brake Light Flasher Pro can save lives but may be illegal in some countries. If the use of brake light flasher is restricted in your country or state, we recommend setting the device to mode "1" which simulates manual brake light flashing (3 slow flashes). **You are responsible for complying with the laws in your area.
+Check local vehicle laws to see if the Brake Light Flasher Pro are allowed in your country/state, as the Brake Light Flasher Pro can save lives but may be illegal in some countries. If the use of brake light flasher is restricted in your country or state, we recommend setting the device to mode "1" which simulates manual brake light flashing (3 slow flashes). **You are responsible for complying with the laws in your area.**
 
 ## Installation
 
