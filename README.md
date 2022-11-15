@@ -1,10 +1,10 @@
-# Bremslichtblitzer Pro
+# Brake Light Flasher Pro
 
 Zur Verwendung an allen Motorrädern, ATVs und Autos ohne Glühlampenüberwachung.
 
 ## Warnung
 
-Überprüfen Sie die örtlichen Fahrzeuggesetze, um zu sehen, ob der Bremslichtblitzer in Ihrem Land/Bundesstaat erlaubt sind, da der Bremslichtblitzer Pro Leben retten, aber in einigen Ländern illegal sein kann. Wenn die Verwendung von Bremslichtblitzern in Ihrem Land oder Staat eingeschränkt ist, empfehlen wir, das Gerät auf den Modus "1" einzustellen, der ein manuelles Blinken des Bremslichts simuliert (3 langsame Blitze). **Sie sind für die Einhaltung der Gesetze in Ihrer Region verantwortlich.**
+Überprüfen Sie die örtlichen Fahrzeuggesetze, um zu sehen, ob der Brake Light Flasher Pro in Ihrem Land/Bundesstaat erlaubt sind, da der Brake Light Flasher Pro Leben retten, aber in einigen Ländern illegal sein kann. Wenn die Verwendung von Bremslichtblitzern in Ihrem Land oder Staat eingeschränkt ist, empfehlen wir, das Gerät auf den Modus "1" einzustellen, der ein manuelles Blinken des Bremslichts simuliert (3 langsame Blitze). **Sie sind für die Einhaltung der Gesetze in Ihrer Region verantwortlich.**
 
 ## Installation
 
@@ -55,8 +55,6 @@ Hier ist die Liste der verfügbaren Modi:
 
 - Halten Sie die Taste etwa 5 Sekunden lang gedrückt, bis die Bremsleuchte erlischt. Dies bestätigt, dass Sie sich im Programmiermodus befinden.
 
-  Hinweis: Um ein versehentliches Programmieren zu vermeiden, müssen Sie die Taste etwa 2-4 Sekunden NACH dem Ende des Blinkzyklus und dem Erlöschen der Leuchte berühren und gedrückt halten. Wenn Sie dieses Programmierfenster verpassen, müssen Sie die Bremse lösen und von vorne beginnen.
-
 - Lassen Sie die Taste los. Das Licht leuchtet auf und bleibt eingeschaltet. Dies bedeutet, dass der Modus "0" gewählt ist. Wenn Sie das Modul im Bypass-Modus belassen wollen, lassen Sie die Bremse los und die Einstellung wird gespeichert.
 
 - Um den nächsten Modus zu wählen, berühren Sie die Taste und halten Sie sie gedrückt, bis die Leuchte erlischt. Wenn Sie die Taste loslassen, wird der nächste Modus ausgewählt und Sie sehen das Blinklichtmuster für diesen Modus.
@@ -65,4 +63,4 @@ Hier ist die Liste der verfügbaren Modi:
 
 ## Gewährleistung
 
-Ich übernehme keine Garantie und/oder Gewährleistung. Alle Modifikationen erfolgen auf eigenes Risiko.
+Es wird keine Garantie und/oder Gewährleistung übernommen. Alle Modifikationen erfolgen auf eigenes Risiko.

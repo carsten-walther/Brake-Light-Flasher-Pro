@@ -1,6 +1,9 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
+// define the version
+#define VERSION "0.0.0alpha"
+
 // enable or diable for debugging
 #define DEBUG
 
@@ -8,7 +11,7 @@
 #define BAUDRATE 115200
 
 // button
-#define BUTTON_PIN 10
+#define BUTTON_PIN 2
 
 // output
 #define OUTPUT_PIN 3
