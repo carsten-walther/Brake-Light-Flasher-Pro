@@ -6,13 +6,32 @@ For use on all motorcycles, ATVs and cars without bulb monitoring.
 
 Check local vehicle laws to see if the Brake Light Flasher Pro are allowed in your country/state, as the Brake Light Flasher Pro can save lives but may be illegal in some countries. If the use of brake light flasher is restricted in your country or state, we recommend setting the device to mode "1" which simulates manual brake light flashing (3 slow flashes). **You are responsible for complying with the laws in your area.**
 
+## Specifications
+
+- Flash patterns: 11 modes + bypass mode
+
 ## Installation
 
 Install this device at your own risk.
 
 For motorcycles, it is recommended that you make the connections under the seat near the brake light system. For cars, make the connections on the cable that goes directly to the third brake light.
 
-...
+Depending on the hardware used, the ground line is interrupted in the depiction shown.
+
+                   +-------+                                          
+                   |       |                                          
+                   |  BLF  |                                          
+                   |       |                                          
+                   |  PRO  |                                          
+                   |       |                                          
+                   +-------+                                          
+                     | | |                                            
+ Ground              | | |                     +------+               
+ --------------------| |---------------------- |      |               
+                         |                     | Bulp |               
+ ------------------------|-------------------- |      |               
+ Plus                                          +------+               
+
 
 ## Operation
 
@@ -75,13 +94,31 @@ Zur Verwendung an allen Motorrädern, ATVs und Autos ohne Glühlampenüberwachun
 
 Überprüfen Sie die örtlichen Fahrzeuggesetze, um zu sehen, ob der Brake Light Flasher Pro in Ihrem Land/Bundesstaat erlaubt sind, da der Brake Light Flasher Pro Leben retten, aber in einigen Ländern illegal sein kann. Wenn die Verwendung von Bremslichtblitzern in Ihrem Land oder Staat eingeschränkt ist, empfehlen wir, das Gerät auf den Modus "1" einzustellen, der ein manuelles Blinken des Bremslichts simuliert (3 langsame Blitze). **Sie sind für die Einhaltung der Gesetze in Ihrer Region verantwortlich.**
 
+## Spezifikationen
+
+- Blinkmuster: 11 Modi + Bypass-Mode
+
 ## Installation
 
 Die Installation dieses Geräts erfolgt auf eigene Gefahr.
 
 Bei Motorrädern empfiehlt es sich, die Anschlüsse unter dem Sitz in der Nähe der Bremslichtanlage vorzunehmen. Bei Autos stellen Sie die Verbindungen an dem Kabel her, das direkt zur dritten Bremsleuchte führt.
 
-...
+Abhängig von der eingesetzten Hardware wird in der abgebildeten Darstellung die Masse-Leitung unterbrochen.
+
+                   +-------+                                          
+                   |       |                                          
+                   |  BLF  |                                          
+                   |       |                                          
+                   |  PRO  |                                          
+                   |       |                                          
+                   +-------+                                          
+                     | | |                                            
+ Ground              | | |                     +------+               
+ --------------------| |---------------------- |      |               
+                         |                     | Bulp |               
+ ------------------------|-------------------- |      |               
+ Plus                                          +------+               
 
 ## Betrieb
 
