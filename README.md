@@ -10,6 +10,31 @@ Check local vehicle laws to see if the Brake Light Flasher Pro are allowed in yo
 
 - Flash patterns: 11 modes + bypass mode
 
+## Hardware
+
+I used these parts:
+
+- Arduino Nano v3.0 [Amazon Link](https://www.amazon.de/AZDelivery-Atmega328-gratis-Arduino-kompatibel/dp/B01LWSJBTD)
+- MOSFET Driver Module [Amazon Link](https://www.amazon.de/gp/product/B089JYL5C6)
+- End switch (required)
+- On/Off switch (optional for bypass)
+- some wires
+- a little plastic box
+
+The end switch ist connected on PIN 2 and GND. The MOSFET Driver is connected on PIN 3 and GND. The On/Off switch is bridgeing the IN- and OUT- connection.
+
+![Image 1](documents/img-001.jpg)
+
+_Image 1: Module opened_
+
+![Image 2](documents/img-002.jpg)
+
+_Image 2: top view_
+
+![Image 3](documents/img-003.jpg)
+
+_Image 3: bottom view_
+
 ## Installation
 
 Install this device at your own risk.
@@ -98,6 +123,31 @@ Zur Verwendung an allen Motorrädern, ATVs und Autos ohne Glühlampenüberwachun
 ## Spezifikationen
 
 - Blinkmuster: 11 Modi + Bypass-Mode
+
+## Hardware
+
+Ich habe diese Bauteile verwendet:
+
+- Arduino Nano v3.0 [Amazon Link](https://www.amazon.de/AZDelivery-Atmega328-gratis-Arduino-kompatibel/dp/B01LWSJBTD)
+- MOSFET Treiber Modul [Amazon Link](https://www.amazon.de/gp/product/B089JYL5C6)
+- Taster (benötigt)
+- An-/Aus-Schalter (optional für Bypass)
+- einige Drähte
+- eine kleine Plasikbox
+
+Der Endschalter ist an PIN 2 und GND angeschlossen. Der MOSFET-Treiber ist an PIN 3 und GND angeschlossen. Der An-/Aus-Schalter überbrückt die IN- und OUT-Verbindung.
+
+![Image 1](documents/img-001.jpg)
+
+_Image 1: Modul geöffnet_
+
+![Image 2](documents/img-002.jpg)
+
+_Image 2: Draufsicht_
+
+![Image 3](documents/img-003.jpg)
+
+_Image 3: Unten_
 
 ## Installation
 
